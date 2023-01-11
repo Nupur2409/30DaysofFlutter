@@ -13,7 +13,7 @@ final String name = "Nupur";
 ),
     body: Center(
         child: Container(
-          child: Text("Welcome to $days Days of Flutter by $name"),
+          child: Text("Mental Health Problems and Solution"),
         ),
       ),
       drawer:Drawer() ,
